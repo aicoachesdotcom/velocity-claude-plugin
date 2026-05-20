@@ -1,7 +1,7 @@
 # Velocity · Claude Code plugin
 
 Records every Velocity skill invocation in Claude Code and reports it
-back to your [Velocity](https://velocity.aicoaches.com) account, so
+back to your [Velocity](https://velocity.forum) account, so
 Value Impact (V.I.) compounds across your real work — not just inside
 facilitated CoWork sessions.
 
@@ -39,4 +39,4 @@ you approve. See LICENSE for terms.
 
 ---
 
-© AiCoaches Inc. Built for [Velocity](https://velocity.aicoaches.com).
+© AiCoaches Inc. Built for [Velocity](https://velocity.forum).

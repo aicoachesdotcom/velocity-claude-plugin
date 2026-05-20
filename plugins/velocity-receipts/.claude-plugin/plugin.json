@@ -4,10 +4,10 @@
   "description": "Velocity by AiCoaches — Value Impact receipts MCP. Tracks every Velocity skill invocation in Claude Code and reports it back to your Velocity account so V.I. compounds across your day, not just inside facilitated CoWork sessions.",
   "author": {
     "name": "AiCoaches Inc.",
-    "url": "https://velocity.aicoaches.com",
+    "url": "https://velocity.forum",
     "email": "matt@aicoaches.com"
   },
-  "homepage": "https://velocity.aicoaches.com",
+  "homepage": "https://velocity.forum",
   "license": "Proprietary",
   "keywords": [
     "velocity",
@@ -29,7 +29,7 @@
       "type": "string",
       "title": "Velocity server URL",
       "description": "Override for self-hosted Velocity deployments. Defaults to the AiCoaches-hosted production tenant.",
-      "default": "https://velocity.aicoaches.com",
+      "default": "https://velocity.forum",
       "required": false
     }
   },

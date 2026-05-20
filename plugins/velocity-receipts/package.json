@@ -1,7 +1,7 @@
 {
   "name": "velocity-receipts",
-  "version": "0.1.0",
-  "description": "Velocity Value-Impact receipts MCP server. Records skill invocations from Claude Code and syncs per-user SKILL.md files from velocity.aicoaches.com.",
+  "version": "0.1.1",
+  "description": "Velocity Value-Impact receipts MCP server. Records skill invocations from Claude Code and syncs per-user SKILL.md files from velocity.forum.",
   "type": "module",
   "bin": {
     "velocity-receipts": "./dist/index.js"
@@ -9,7 +9,7 @@
   "engines": {
     "node": ">=18"
   },
-  "author": "AiCoaches Inc. (https://velocity.aicoaches.com)",
+  "author": "AiCoaches Inc. (https://velocity.forum)",
   "license": "SEE LICENSE IN LICENSE",
   "private": false
 }

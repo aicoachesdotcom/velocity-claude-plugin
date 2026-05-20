@@ -1,6 +1,6 @@
 # Velocity · Claude Code marketplace
 
-The official AiCoaches marketplace for [Velocity](https://velocity.aicoaches.com)
+The official AiCoaches marketplace for [Velocity](https://velocity.forum)
 Claude Code tooling.
 
 ## Plugins

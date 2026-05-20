@@ -6905,7 +6905,7 @@ import * as path from "node:path";
 import * as os from "node:os";
 import * as crypto from "node:crypto";
 var DEFAULT_CONFIG = {
-  serverBaseUrl: "https://velocity.aicoaches.com",
+  serverBaseUrl: "https://velocity.forum",
   skills: {},
   scopes: { editor: true, crm: false, email: false, slack: false, browser: false },
   pausedUntil: null
