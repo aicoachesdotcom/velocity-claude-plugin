@@ -1,0 +1,47 @@
+{
+  "name": "velocity-receipts",
+  "version": "0.1.0",
+  "description": "Velocity by AiCoaches — Value Impact receipts MCP. Tracks every Velocity skill invocation in Claude Code and reports it back to your Velocity account so V.I. compounds across your day, not just inside facilitated CoWork sessions.",
+  "author": {
+    "name": "AiCoaches Inc.",
+    "url": "https://velocity.aicoaches.com",
+    "email": "matt@aicoaches.com"
+  },
+  "homepage": "https://velocity.aicoaches.com",
+  "license": "Proprietary",
+  "keywords": [
+    "velocity",
+    "aicoaches",
+    "learning",
+    "value-impact",
+    "telemetry",
+    "skill"
+  ],
+  "userConfig": {
+    "install_code": {
+      "type": "string",
+      "title": "Velocity install code",
+      "description": "One-shot code from your Velocity Desktop session-complete screen. Leave blank to walk through the browser-based device-code flow instead.",
+      "sensitive": true,
+      "required": false
+    },
+    "base_url": {
+      "type": "string",
+      "title": "Velocity server URL",
+      "description": "Override for self-hosted Velocity deployments. Defaults to the AiCoaches-hosted production tenant.",
+      "default": "https://velocity.aicoaches.com",
+      "required": false
+    }
+  },
+  "mcpServers": {
+    "velocity-receipts": {
+      "command": "node",
+      "args": ["${CLAUDE_PLUGIN_ROOT}/dist/index.js"],
+      "env": {
+        "VELOCITY_INSTALL_CODE": "${user_config.install_code}",
+        "VELOCITY_BASE_URL": "${user_config.base_url}",
+        "CLAUDE_CODE_VERSION": "${CLAUDE_CODE_VERSION}"
+      }
+    }
+  }
+}

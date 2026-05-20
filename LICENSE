@@ -1,0 +1,30 @@
+Velocity Claude Code Plugin — License
+
+Copyright (c) 2026 AiCoaches Inc. All rights reserved.
+
+This software (the "Plugin") is the velocity-receipts client for the
+Velocity platform operated by AiCoaches Inc. (https://velocity.aicoaches.com).
+
+GRANT. You are granted a non-exclusive, non-transferable, revocable
+license to download and run the Plugin solely to connect your own
+Velocity account to Claude Code and record your own Value Impact
+telemetry.
+
+RESTRICTIONS. Without prior written permission from AiCoaches Inc. you
+may NOT:
+  - redistribute, sublicense, sell, or host the Plugin or any derivative
+    of it;
+  - modify, reverse-engineer, decompile, or repackage the Plugin for use
+    against any service other than the AiCoaches-operated Velocity
+    platform;
+  - remove or alter this notice.
+
+TRANSPARENCY. The source is published publicly for auditability and for
+installation via the Claude Code plugin marketplace. Public availability
+is not an open-source license grant.
+
+NO WARRANTY. The Plugin is provided "AS IS", without warranty of any
+kind, express or implied. AiCoaches Inc. shall not be liable for any
+claim or damages arising from its use.
+
+Contact: matt@aicoaches.com

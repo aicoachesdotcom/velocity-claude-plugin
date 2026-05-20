@@ -1,0 +1,19 @@
+{
+  "name": "aicoaches",
+  "owner": {
+    "name": "AiCoaches Inc.",
+    "email": "matt@aicoaches.com",
+    "url": "https://velocity.aicoaches.com"
+  },
+  "metadata": {
+    "description": "Velocity by AiCoaches — Value Impact tooling for Claude Code.",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "velocity-receipts",
+      "source": "./plugins/velocity-receipts",
+      "description": "Records Velocity skill invocations in Claude Code so Value Impact compounds across your real work."
+    }
+  ]
+}
