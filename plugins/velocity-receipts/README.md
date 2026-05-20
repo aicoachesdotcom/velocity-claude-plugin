@@ -35,8 +35,9 @@ URL** (defaults to the AiCoaches-hosted tenant).
 
 Telemetry is opt-out anytime (`pause_telemetry`) and revocable from
 Velocity → Settings → Skills · MCP. The server reads only the scopes
-you approve. See LICENSE for terms.
+you approve. Full privacy policy: https://velocity.forum/privacy — see
+LICENSE for terms.
 
 ---
 
-© AiCoaches Inc. Built for [Velocity](https://velocity.forum).
+© AiCoaches.com LLC. Built for [Velocity](https://velocity.forum).

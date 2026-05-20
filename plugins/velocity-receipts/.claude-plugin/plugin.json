@@ -1,11 +1,11 @@
 {
   "name": "velocity-receipts",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "description": "Velocity by AiCoaches — Value Impact receipts MCP. Tracks every Velocity skill invocation in Claude Code and reports it back to your Velocity account so V.I. compounds across your day, not just inside facilitated CoWork sessions.",
   "author": {
-    "name": "AiCoaches Inc.",
-    "url": "https://velocity.forum",
-    "email": "matt@aicoaches.com"
+    "name": "AiCoaches.com LLC",
+    "url": "https://aicoaches.com",
+    "email": "support@aicoaches.com"
   },
   "homepage": "https://velocity.forum",
   "license": "Proprietary",

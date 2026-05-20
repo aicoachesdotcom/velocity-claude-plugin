@@ -18,4 +18,4 @@ See [`plugins/velocity-receipts/README.md`](./plugins/velocity-receipts/README.m
 
 ---
 
-© AiCoaches Inc. Licensed for use with a Velocity account — see LICENSE.
+© AiCoaches.com LLC. Licensed for use with a Velocity account — see LICENSE.
